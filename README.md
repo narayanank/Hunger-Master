@@ -1,0 +1,1 @@
+This app presents a clever way of managing the amount spend at restaurants. It is straightforward app makes sure amount spending within your means, and offers a simple and intuitive user experience. The UI is clean and beautiful with colors and tries to manage both desire for food and monthly budget.
